@@ -1,0 +1,36 @@
+Arguments: 
+  D:\sortware\node\node.exe D:\sortware\yarn\bin\yarn.js add webpack-mrege
+
+PATH: 
+  C:\Users\lenovo\bin;D:\sortware\Git\mingw64\bin;D:\sortware\Git\usr\local\bin;D:\sortware\Git\usr\bin;D:\sortware\Git\usr\bin;D:\sortware\Git\mingw64\bin;D:\sortware\Git\usr\bin;C:\Users\lenovo\bin;D:\sortware\xshell;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;D:\phpstudy\PHPTutorial\php\php-7.2.1-nts;C:\Users\lenovo\AppData\Roaming\npm;C:\WINDOWS\System32\OpenSSH;D:\sortware\putty;D:\sortware\yarn\bin;D:\sortware\Git\cmd;C:\Program Files\dotnet;D:\sortware\node;C:\Users\lenovo\AppData\Local\atom\bin;C:\Users\lenovo\AppData\Local\Microsoft\WindowsApps;D:\sortware\Git\git-bash.exe;C:\Users\lenovo\AppData\Local\Yarn\bin;D:\sortware\Git\usr\bin\vendor_perl;D:\sortware\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.9.2
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/webpack-mrege: Not found
+      at Request.params.callback [as _callback] (D:\sortware\yarn\lib\cli.js:64150:18)
+      at Request.self.callback (D:\sortware\yarn\lib\cli.js:137416:22)
+      at Request.emit (events.js:189:13)
+      at Request.<anonymous> (D:\sortware\yarn\lib\cli.js:138388:10)
+      at Request.emit (events.js:189:13)
+      at IncomingMessage.<anonymous> (D:\sortware\yarn\lib\cli.js:138310:12)
+      at Object.onceWrapper (events.js:277:13)
+      at IncomingMessage.emit (events.js:194:15)
+      at endReadableNT (_stream_readable.js:1125:12)
+      at process._tickCallback (internal/process/next_tick.js:63:19)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
