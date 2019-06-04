@@ -4,7 +4,7 @@
 
 ## 项目运行（nodejs 6.0+）
 ``` bash
-# 克隆到本地
+# 克隆到本地 git@github.com:viki719632/webpack.git
 
 # 进入文件夹
 cd webpack
